@@ -7,5 +7,7 @@ public static void main(String[] args) {
 	char c = 'e';
 	int d=c;
 	System.out.println(d);
+	
+	System.out.println("Bhaiya hamne chage kiya hai");
 }
 }

@@ -9,5 +9,7 @@ public static void main(String[] args) {
 	System.out.println(d);
 	
 	System.out.println("Branch change");
+
+	System.out.println("new commit required");
 }
 }

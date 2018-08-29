@@ -8,6 +8,6 @@ public static void main(String[] args) {
 	int d=c;
 	System.out.println(d);
 	
-	System.out.println("Bhaiya hamne chage ");
+	System.out.println("Branch change");
 }
 }

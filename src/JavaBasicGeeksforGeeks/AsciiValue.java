@@ -3,11 +3,16 @@ package JavaBasicGeeksforGeeks;
 // https://www.geeksforgeeks.org/program-print-ascii-value-character/
 
 public class AsciiValue {
+
+
 public static void main(String[] args) {
-	char c = 'e';
+	            char c = 'e';
 	int d=c;
-	System.out.println(d);
-	
-	System.out.println("Bhaiya hamne chage ");
+	            System.out.println(d);
+
+	System.out.println("Branch change");
+	System.out.println("Branch change");
+	System.out.println("new commit required");
 }
 }
+

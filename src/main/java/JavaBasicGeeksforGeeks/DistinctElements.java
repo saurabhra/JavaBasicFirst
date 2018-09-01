@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class DistinctElements {
-      public static boolean distinctElements (Integer arr[]) {
+    /*  public static boolean distinctElements (Integer arr[]) {
 		Set<Integer> has = new HashSet<>(Arrays.asList(arr));
 		
 		return (has.size() == arr.length);
@@ -18,5 +18,5 @@ public class DistinctElements {
 		}else {
 			System.out.println("Not all elemts are distinct");
 		}
-	 }
+	 }*/
 }
